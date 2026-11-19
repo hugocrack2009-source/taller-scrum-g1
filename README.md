@@ -9,6 +9,7 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 - Les històries estan en les *issues*. L'ordre i els punts els decidiu en cada planificació.
 - Una història = una branca `historia/N-nom` + una pull request amb `Closes #N`.
 - Ningú puja directament a `main`. Mireu `DEFINICIO_DE_FET.md` abans de començar.
+- Les ordres de Git, en `GUIA_RAPIDA.md`. Les històries per a copiar, en `BACKLOG.md`.
 
 ## Menú de pantalles
 
