@@ -16,5 +16,6 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 <!-- Afegiu ací una línia per pantalla, per exemple:
 - [Calendari](pantalles/04-calendari.md)
 -->
+- [Calendari](pantalles/02-calendari.md)
 - [Pròxima activitat](pantalles/08-proxima-activitat.md)
 
