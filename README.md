@@ -17,3 +17,4 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 - [Calendari](pantalles/04-calendari.md)
 -->
 
+- [Indicar el motiu de l'absència](pantalles/12-motiu.md)
