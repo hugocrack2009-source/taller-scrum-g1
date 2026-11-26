@@ -1,4 +1,8 @@
-# Pantalla: Indicar el motiu de l'absència (#12)
+# Indicar el motiu de l'absència
+
+**Gesband**
+
+[← Tornar al menú](../README.md)
 
 ## Història
 Com a músic, quan no vaig, vull indicar el motiu.
@@ -14,5 +18,3 @@ Com a músic, quan no vaig, vull indicar el motiu.
 ## Criteris d'acceptació
 - [ ] Si trie «No vaig», apareix un camp per al motiu.
 - [ ] Si trie «Vaig», no apareix.
-
-Relacionat amb: #10 Confirmar l'assistència
