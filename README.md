@@ -19,3 +19,4 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 - [Calendari](pantalles/02-calendari.md)
 - [Pròxima activitat](pantalles/08-proxima-activitat.md)
 
+- [Indicar el motiu de l'absència](pantalles/12-motiu.md)
