@@ -20,3 +20,4 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 - [Pròxima activitat](pantalles/08-proxima-activitat.md)
 
 - [Indicar el motiu de l'absència](pantalles/12-motiu.md)
+- [Confirmar l'assistència](pantalles/10-confirmar.md)
